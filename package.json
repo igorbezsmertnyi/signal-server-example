@@ -1,0 +1,28 @@
+{
+  "name": "p2p-videochat",
+  "version": "1.0.0",
+  "description": "P2P videochat using WebRTC and NodeJs signal server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorbezsmertnyi/p2p-videochat.git"
+  },
+  "keywords": [
+    "p2p",
+    "peer",
+    "to",
+    "peer",
+    "web",
+    "rtc",
+    "nodejs"
+  ],
+  "author": "Igor Bezsmertnyi <bezsmertnyi.igor@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorbezsmertnyi/p2p-videochat/issues"
+  },
+  "homepage": "https://github.com/igorbezsmertnyi/p2p-videochat#readme"
+}
